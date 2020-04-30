@@ -28,7 +28,7 @@ class_labels = ['Angry','Happy','Neutral','Sad','Surprise']
 #     return (x,w,y,h),roi_gray,img
 
 
-cap = cv2.VideoCapture('./test_videos/test3.mp4')
+cap = cv2.VideoCapture('./test_videos/test2.mp4')
 
 
 
