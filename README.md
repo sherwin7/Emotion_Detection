@@ -57,9 +57,7 @@ pip install -r requirements.txt
 ```
 
 #### Step - 5
-We can run the `emotion_detection.py`. Here the video used are in `test_videos` you can keep yours and try or if you want to use a 
-live video from your webcam In 'emotion_detection.py` change the line `31` (i.e) `cap = cv2.VideoCapture('./test_videos/test3.mp4')`
-to `cap = cv2.VideoCapture('0')` which takes the default camera input and press `q` to quit from the program.
+We can run the `emotion_detection.py`. Here the video used are in `test_videos` you can keep yours and try or if you want to use a live video from your webcam In `emotion_detection.py` change the line `31` (i.e) `cap = cv2.VideoCapture('./test_videos/test3.mp4')`to `cap = cv2.VideoCapture('0')` which takes the default camera as input and press `q` to quit from the program.
 ```
 python emotion_detection.py
 ```
