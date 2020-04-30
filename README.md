@@ -67,4 +67,5 @@ python emotion_detection.py
 ## Result
 
 ## Model Architecture
-[Image description](/docs/model_plot.png)
+
+![Image description](/docs/model_plot.png)
