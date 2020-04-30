@@ -65,6 +65,7 @@ python emotion_detection.py
 ```
 
 ## Result
+![test2.gif](docs/test2.gif)
 
 ## Model Architecture
 
