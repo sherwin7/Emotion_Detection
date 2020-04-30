@@ -16,7 +16,7 @@ Opencv
 We can set this project in your local machine to start predicting.
 
 #### Step - 1
-Open a `terminal`, clone the `Question-analyzer` repository and go into the directory using the command `cd`.
+Open a `terminal`, clone the `Emotion_Detection` repository and go into the directory using the command `cd`.
 ```bash
 git clone https://github.com/sherwin7/Emotion_Detection.git
 
