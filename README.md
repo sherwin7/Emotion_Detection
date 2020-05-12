@@ -5,7 +5,7 @@ Used an convolutional neural network model (CNN) inspired from VGG-16 model arch
 The model has been trained on fer2013 dataset and got 60 percent in [Google Colabaratory's](https://colab.research.google.com/) GPU so it may not
 be accurate but performs well. you are welcome to train it more.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/https://github.com/sherwin7/Emotion_Detection)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/https://github.com/sherwin7/Emotion_Detection.git)
 
 ## Built using
 ```
